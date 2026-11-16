@@ -1,0 +1,286 @@
+{
+  "basics": {
+    "name": "Shilpa Mishra",
+    "label": "Frontend Developer | Recruiter | B.Tech CSE",
+    "image": "",
+    "email": "shilpamis428@gmail.com",
+    "phone": "+91-9336654223",
+    "url": "https://mishrashilpa-28.github.io/",
+    "summary": "Computer Science graduate (B.Tech, CGPA 8.03, First Division with Distinction) with experience across frontend development, freelance web projects and international recruiting. Builds practical tools for her own work, communicates daily with UK clients, and can join immediately."
+  },
+  "work": [
+    {
+      "name": "JobBridge Recruitment (Aligner Talent Solutions LLP)",
+      "position": "Executive Recruiter",
+      "startDate": "Sep 2026",
+      "endDate": "Present",
+      "location": "Noida, India",
+      "summary": "",
+      "highlights": [
+        "Managed end-to-end job applications for 15-20 international clients seeking roles in the UK, tailoring and submitting 45-60 job-specific resumes and applications every day (3 per client per day).",
+        "Rewrote each client's resume to match the job description's required skills, certifications and job title, across IT, healthcare, finance, supply chain, pharmacy and biotech roles.",
+        "Sourced openings daily with advanced Boolean and Google X-ray search across LinkedIn, NHS Jobs and company job boards, filtering by seniority, salary and visa sponsorship.",
+        "Prepared interview notes and ran mock interviews for every client invited to interview; clients received about 7 interview invitations a week combined.",
+        "Built SourcingStudio Pro, a browser app that generates LinkedIn Boolean and Google X-ray search strings from clickable filters, replacing hand-typed searches in the daily workflow.",
+        "Kept clients updated by email and phone every day and tracked each client's applications and interviews in Excel and Google Sheets."
+      ]
+    },
+    {
+      "name": "Freelance",
+      "position": "Web Developer",
+      "startDate": "Sep 2025",
+      "endDate": "Sep 2026",
+      "location": "Noida, India (remote)",
+      "summary": "",
+      "highlights": [
+        "Built websites, Shopify stores and WordPress pages for local businesses, including product catalogues that let them take orders from online customers.",
+        "Helped 18 local businesses build their online presence, from first website to a working online store."
+      ]
+    },
+    {
+      "name": "Hawk Aerospace",
+      "position": "Software Development Engineer Intern",
+      "startDate": "Jun 2025",
+      "endDate": "Sep 2025",
+      "location": "Remote",
+      "summary": "",
+      "highlights": [
+        "Built the user interface of an agricultural-drone startup's Android app in React Native, working in Android Studio with Java and Gradle.",
+        "Maintained documentation of the app's frontend for future developers."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kashi Institute of Technology (Dr. A. P. J. Abdul Kalam Technical University)",
+      "location": "Varanasi, India",
+      "url": "",
+      "area": "B.Tech, Computer Science and Engineering \u2014 CGPA 8.03/10, First Division with Distinction",
+      "studyType": "",
+      "startDate": "2020",
+      "endDate": "2024"
+    },
+    {
+      "institution": "JSpiders",
+      "location": "India",
+      "url": "",
+      "area": "Full Stack Java Training (Core Java, SQL, HTML, CSS, JavaScript, React)",
+      "studyType": "",
+      "startDate": "Aug 2024",
+      "endDate": "May 2025"
+    }
+  ],
+  "certificates": [
+    {
+      "name": "JavaScript Algorithms and Data Structures",
+      "issuer": "freeCodeCamp (Apr 2025)",
+      "url": "",
+      "icon": "fa-solid fa-award"
+    },
+    {
+      "name": "Responsive Web Design",
+      "issuer": "freeCodeCamp (Apr 2025)",
+      "url": "",
+      "icon": "fa-solid fa-award"
+    },
+    {
+      "name": "Machine Learning with Python",
+      "issuer": "freeCodeCamp (Apr 2025)",
+      "url": "",
+      "icon": "fa-solid fa-award"
+    },
+    {
+      "name": "Introduction to Linux (LFS101)",
+      "issuer": "The Linux Foundation (Apr 2025)",
+      "url": "",
+      "icon": "fa-solid fa-award"
+    },
+    {
+      "name": "Introduction to Kubernetes (LFS158)",
+      "issuer": "The Linux Foundation",
+      "url": "",
+      "icon": "fa-solid fa-award"
+    },
+    {
+      "name": "Introduction to Node.js (LFW111)",
+      "issuer": "The Linux Foundation",
+      "url": "",
+      "icon": "fa-solid fa-award"
+    },
+    {
+      "name": "AWS Cloud Essentials",
+      "issuer": "AWS Training (Apr 2025)",
+      "url": "",
+      "icon": "fa-solid fa-award"
+    },
+    {
+      "name": "Data Science 101",
+      "issuer": "IBM (Cognitive Class) (Apr 2025)",
+      "url": "",
+      "icon": "fa-solid fa-award"
+    },
+    {
+      "name": "Networking Basics",
+      "issuer": "Credly",
+      "url": "",
+      "icon": "fa-solid fa-award"
+    },
+    {
+      "name": "Python Programming with IoT",
+      "issuer": "Softpro India Computer Technologies (May 2023)",
+      "url": "",
+      "icon": "fa-solid fa-award"
+    },
+    {
+      "name": "Cloud Computing with AWS",
+      "issuer": "IIT Kanpur (Apr 2022)",
+      "url": "",
+      "icon": "fa-solid fa-award"
+    },
+    {
+      "name": "Web Development",
+      "issuer": "Internshala (Jul 2022)",
+      "url": "",
+      "icon": "fa-solid fa-award"
+    },
+    {
+      "name": "Internship and Job Preparation Training",
+      "issuer": "Internshala (Jul 2022)",
+      "url": "",
+      "icon": "fa-solid fa-award"
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "highlights": [
+        "JavaScript",
+        "Java",
+        "Python",
+        "SQL",
+        "C",
+        "C++"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "highlights": [
+        "HTML",
+        "CSS",
+        "Tailwind CSS",
+        "React",
+        "React Native",
+        "Responsive design"
+      ]
+    },
+    {
+      "name": "Backend and data",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "highlights": [
+        "REST APIs"
+      ]
+    },
+    {
+      "name": "Web platforms",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "highlights": [
+        "Shopify",
+        "WordPress"
+      ]
+    },
+    {
+      "name": "Tools",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "highlights": [
+        "Git",
+        "Linux",
+        "Android Studio",
+        "Excel"
+      ]
+    },
+    {
+      "name": "AI tools",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "highlights": [
+        "LLM APIs",
+        "Prompt writing"
+      ]
+    },
+    {
+      "name": "Recruiting",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "highlights": [
+        "Sourcing",
+        "Boolean search",
+        "Resume screening",
+        "ATS",
+        "Interview preparation",
+        "Client communication"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "highlights": [
+        "Data structures and algorithms"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native",
+      "icon": ""
+    }
+  ],
+  "projects": [
+    {
+      "name": "SourcingStudio Pro",
+      "summary": "Boolean job-search builder",
+      "highlights": [
+        "Built a single-file web app that turns job searches into clickable building blocks and generates LinkedIn Boolean and Google X-ray strings, with seniority, salary and visa filters, a length meter for LinkedIn's query limit, saved search profiles and a CSV job tracker."
+      ],
+      "url": "https://mishrashilpa-28.github.io/SourcingStudio-Pro/"
+    },
+    {
+      "name": "Vibrant Kashi",
+      "summary": "Varanasi travel guide (final-year project)",
+      "highlights": [
+        "Built a travel guide to Varanasi as a solo final-year project: React pages for ghats, temples, museums, historic places, hotels, restaurants, events and adventure, with embedded Google Maps, visitor reviews with star ratings, and an Express and MongoDB backend with JWT login."
+      ],
+      "url": "https://github.com/mishraShilpa-28/Vibrant-Kashi"
+    },
+    {
+      "name": "Sorting Visualizer",
+      "summary": "animated sorting algorithms",
+      "highlights": [
+        "Built an animated visualiser for bubble, merge, quick and heap sort in React and Redux, deployed on GitHub Pages."
+      ],
+      "url": "https://mishrashilpa-28.github.io/sorting-visualizer/"
+    },
+    {
+      "name": "Pathfinding Visualizer",
+      "summary": "graph search on a grid",
+      "highlights": [
+        "Built an interactive grid that animates pathfinding algorithms (Dijkstra, A*, BFS, DFS, bidirectional search) and recursive-division maze generation."
+      ],
+      "url": "https://github.com/mishraShilpa-28/path-finding-visualizer"
+    }
+  ]
+}
