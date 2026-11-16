@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Shilpa Mishra",
-    "label": "Frontend Developer | Recruiter | B.Tech CSE",
+    "label": "Software Developer | Web and Mobile | B.Tech CSE",
     "image": "",
     "email": "shilpamis428@gmail.com",
     "phone": "+91-9336654223",
     "url": "https://mishrashilpa-28.github.io/",
-    "summary": "Computer Science graduate (B.Tech, CGPA 8.03, First Division with Distinction) with experience across frontend development, freelance web projects and international recruiting. Builds practical tools for her own work, communicates daily with UK clients, and can join immediately."
+    "summary": "Software developer with a B.Tech in Computer Science (CGPA 8.03, First Division with Distinction) and experience across mobile and web development, freelance projects and international recruiting. Builds practical tools for her own work, communicates daily with UK clients, and can join immediately."
   },
   "work": [
     {
@@ -46,7 +46,8 @@
       "summary": "",
       "highlights": [
         "Built the user interface of an agricultural-drone startup's Android app in React Native, working in Android Studio with Java and Gradle.",
-        "Maintained documentation of the app's frontend for future developers."
+        "Maintained documentation of the app's frontend for future developers.",
+        "Built 58 app screens and fixed about 98 production bugs, counted from the project's code history."
       ]
     }
   ],
@@ -116,7 +117,7 @@
     {
       "name": "Data Science 101",
       "issuer": "IBM (Cognitive Class) (Apr 2025)",
-      "url": "",
+      "url": "https://courses.cognitiveclass.ai/certificates/1f1403b4408c4123b1386db7523a5d31",
       "icon": "fa-solid fa-award"
     },
     {
@@ -127,25 +128,25 @@
     },
     {
       "name": "Python Programming with IoT",
-      "issuer": "Softpro India Computer Technologies (May 2023)",
+      "issuer": "Softpro India Computer Technologies (May 2023) \u00b7 ID SPI/21569",
       "url": "",
       "icon": "fa-solid fa-award"
     },
     {
       "name": "Cloud Computing with AWS",
-      "issuer": "IIT Kanpur (Apr 2022)",
+      "issuer": "IIT Kanpur (Apr 2022) \u00b7 ID 124813-210534-ef54b6fc5a9c4900-2021",
       "url": "",
       "icon": "fa-solid fa-award"
     },
     {
       "name": "Web Development",
-      "issuer": "Internshala (Jul 2022)",
+      "issuer": "Internshala (Jul 2022) \u00b7 ID 14CE3403-B7B4-79F7-BE64-AFA6F54BF18C",
       "url": "",
       "icon": "fa-solid fa-award"
     },
     {
       "name": "Internship and Job Preparation Training",
-      "issuer": "Internshala (Jul 2022)",
+      "issuer": "Internshala (Jul 2022) \u00b7 ID 440E133A-02FC-987C-04F7-9BFECDB3C193",
       "url": "",
       "icon": "fa-solid fa-award"
     }
@@ -166,7 +167,7 @@
       ]
     },
     {
-      "name": "Frontend",
+      "name": "Web and mobile",
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "highlights": [
@@ -235,6 +236,35 @@
       "highlights": [
         "Data structures and algorithms"
       ]
+    },
+    {
+      "name": "Currently learning",
+      "level": "",
+      "icon": "fa-solid fa-seedling",
+      "highlights": [
+        "TypeScript",
+        "Next.js",
+        "Node.js",
+        "MongoDB",
+        "pandas",
+        "Docker",
+        "AWS",
+        "Express",
+        "Spring Boot",
+        "Hibernate",
+        "Prisma",
+        "Socket.io",
+        "Kubernetes",
+        "Postman",
+        "scikit-learn",
+        "TensorFlow",
+        "PyTorch",
+        "LangChain",
+        "Hugging Face",
+        "MLOps",
+        "LLMOps",
+        "Reinforcement learning"
+      ]
     }
   ],
   "languages": [
@@ -281,6 +311,158 @@
         "Built an interactive grid that animates pathfinding algorithms (Dijkstra, A*, BFS, DFS, bidirectional search) and recursive-division maze generation."
       ],
       "url": "https://github.com/mishraShilpa-28/path-finding-visualizer"
+    },
+    {
+      "name": "Wealth-Wise",
+      "summary": "Personal finance app with AI receipt scanning, budgets, recurring transactions and monthly email reports",
+      "highlights": [
+        "Built personal finance app with AI receipt scanning, budgets, recurring transactions and monthly email reports: Receipt scanning: upload a photo and the Gemini API extracts amount, date and category; Budgets with email alerts when spending nears the limit, and monthly reports by email (Resend)."
+      ],
+      "url": "https://github.com/mishraShilpa-28/Wealth-Wise"
+    },
+    {
+      "name": "Find My Car",
+      "summary": "Car marketplace with AI image search, test-drive booking and an admin dashboard",
+      "highlights": [
+        "Built car marketplace with AI image search, test-drive booking and an admin dashboard: AI image search: upload a car photo to find similar cars in stock (Gemini API); Filters by make, body type, fuel, transmission and price, plus saved cars."
+      ],
+      "url": "https://github.com/mishraShilpa-28/Find-My-Car"
+    },
+    {
+      "name": "WhisperWave",
+      "summary": "Real-time chat app with login, profile photos, user search and instant messaging",
+      "highlights": [
+        "Built real-time chat app with login, profile photos, user search and instant messaging: Real-time messaging and online status with Socket.io; Sign-up and login with JWT and bcrypt-hashed passwords; profile photos."
+      ],
+      "url": "https://whisperwave-g6y1.onrender.com"
+    },
+    {
+      "name": "Learnify",
+      "summary": "Learning platform where instructors publish video courses and students enrol, pay and track progress",
+      "highlights": [
+        "Built learning platform where instructors publish video courses and students enrol, pay and track progress: Two roles: instructors create, edit and publish courses and lessons; students browse, enrol and learn; Stripe checkout to buy a course; free preview lessons for everyone."
+      ],
+      "url": "https://learnify-77yr.onrender.com/"
+    },
+    {
+      "name": "Restaurant Ordering App",
+      "summary": "Food-ordering site with restaurant and menu management, cart, Stripe payments and email verification",
+      "highlights": [
+        "Built food-ordering site with restaurant and menu management, cart, Stripe payments and email verification: Accounts with email verification (6-digit code), password reset and admin or user roles; Restaurant and menu management with image uploads."
+      ],
+      "url": "https://restaurant-website-mern-li71.onrender.com/"
+    },
+    {
+      "name": "Rental Household",
+      "summary": "Marketplace for renting household items, with admin and user dashboards and online payments",
+      "highlights": [
+        "Built marketplace for renting household items, with admin and user dashboards and online payments: Admin dashboard to create categories and products with photos; User dashboard with profile and orders."
+      ],
+      "url": "https://github.com/mishraShilpa-28/Rental-Household"
+    },
+    {
+      "name": "Food Delivery Website",
+      "summary": "Food delivery frontend with menu categories, cart and checkout pages",
+      "highlights": [
+        "Built food delivery frontend with menu categories, cart and checkout pages: Explore menu by category and add dishes to the cart; Cart with quantities and totals, shared across pages with React Context."
+      ],
+      "url": "https://github.com/mishraShilpa-28/Food-Delivery-Website"
+    },
+    {
+      "name": "Stock Chart Dashboard",
+      "summary": "Take-home assessment: a responsive page that charts company stock data from a CSV file",
+      "highlights": [
+        "Built take-home assessment: a responsive page that charts company stock data from a CSV file: Loads and parses the CSV in the browser with PapaParse; Company list on the left; clicking one draws its chart with Chart.js."
+      ],
+      "url": "https://mishrashilpa-28.github.io/Web-Hybrid-Software-Developer-Assessment/"
+    },
+    {
+      "name": "Weatherly",
+      "summary": "Weather app that shows current conditions for any city",
+      "highlights": [
+        "Built weather app that shows current conditions for any city: Search any city and see its current temperature and conditions, with an icon that matches the weather."
+      ],
+      "url": "https://github.com/mishraShilpa-28/Weatherly-"
+    },
+    {
+      "name": "Resume Screening and Job Matching",
+      "summary": "Parses resumes, sorts them into job categories and recommends jobs, with a small web app",
+      "highlights": [
+        "Built parses resumes, sorts them into job categories and recommends jobs, with a small web app: Resume parsing: extracts contact details, skills and education with NLP; Categorisation: a machine-learning model assigns each resume to a job category (Kaggle resume dataset)."
+      ],
+      "url": "https://github.com/mishraShilpa-28/resume-screening-ML-categorization"
+    },
+    {
+      "name": "Phishing Website Detection",
+      "summary": "Classifies web pages as phishing or legitimate from their HTML",
+      "highlights": [
+        "Built classifies web pages as phishing or legitimate from their HTML: Byte-pair-encoding tokenizer trained on page HTML, with TF-IDF features; Random forest classifier trained on labelled phishing and legitimate pages."
+      ],
+      "url": "https://github.com/mishraShilpa-28/Detecting-Phishing-Websites-using-ML"
+    },
+    {
+      "name": "Breast Cancer Detection (CNN)",
+      "summary": "Convolutional neural network that classifies breast biopsy images",
+      "highlights": [
+        "Built convolutional neural network that classifies breast biopsy images: Four-class (normal, benign, in-situ, invasive) and binary (carcinoma or not) classification; Multi-scale CNN that looks at both cell-level detail and tissue structure."
+      ],
+      "url": "https://github.com/mishraShilpa-28/breast-cancer-detection"
+    },
+    {
+      "name": "Customer Churn Prediction",
+      "summary": "Predicts whether telecom customers will churn, stay or join, comparing five models",
+      "highlights": [
+        "Built predicts whether telecom customers will churn, stay or join, comparing five models: Data: 7,043 customers of a California telecom company, with demographics, services and tenure; Five models compared: XGBoost, logistic regression, random forest, decision tree and naive Bayes."
+      ],
+      "url": "https://github.com/mishraShilpa-28/customer-churn-prediction"
+    },
+    {
+      "name": "Predict Future Sales",
+      "summary": "Forecasts next month's sales for a Kaggle competition",
+      "highlights": [
+        "Built forecasts next month's sales for a Kaggle competition: Feature engineering on daily sales: monthly totals, lags and item and shop statistics; Gradient-boosting model (XGBoost) with tuning."
+      ],
+      "url": "https://github.com/mishraShilpa-28/predict-future-sales"
+    },
+    {
+      "name": "Stock Market Forecasting",
+      "summary": "Notebook that forecasts Apple's share price from historical data",
+      "highlights": [
+        "Built notebook that forecasts Apple's share price from historical data: Historical price analysis and a forecasting model on Apple (AAPL) data."
+      ],
+      "url": "https://github.com/mishraShilpa-28/stock-market-forecasting"
+    },
+    {
+      "name": "Object Detection in the Browser",
+      "summary": "Detects objects in images and webcam video, running entirely in the browser",
+      "highlights": [
+        "Built detects objects in images and webcam video, running entirely in the browser: Live webcam and image detection with boxes and labels, using the COCO-SSD model in TensorFlow.js."
+      ],
+      "url": "https://github.com/mishraShilpa-28/object-detection"
+    },
+    {
+      "name": "AI Chatbot",
+      "summary": "A chatbot web app on the OpenAI chat API",
+      "highlights": [
+        "Built a chatbot web app on the OpenAI chat API: Chat interface in Gradio that keeps the conversation history and sends it to the OpenAI API."
+      ],
+      "url": "https://github.com/mishraShilpa-28/AIChatbot-with-ChatGPT-API"
+    },
+    {
+      "name": "Real-Time Network Traffic Analyzer",
+      "summary": "Captures network packets and streams them live to a web dashboard",
+      "highlights": [
+        "Built captures network packets and streams them live to a web dashboard: Packet capture with Scapy, filtered by IP address; Live dashboard in Next.js fed over a WebSocket."
+      ],
+      "url": "https://github.com/mishraShilpa-28/real-time-network-traffic-analyzer"
+    },
+    {
+      "name": "Password Strength Tester and Cracker",
+      "summary": "Java tool that generates passwords, rates their strength and simulates brute-force cracking",
+      "highlights": [
+        "Built java tool that generates passwords, rates their strength and simulates brute-force cracking: Generate, rate and crack: strength scoring by length and character variety, and a brute-force simulation that shows the time to crack."
+      ],
+      "url": "https://github.com/mishraShilpa-28/pwd-strength-tester-and-cracker"
     }
   ]
 }

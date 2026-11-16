@@ -2,7 +2,7 @@
 layout: about
 title: _about
 permalink: /
-subtitle: Frontend developer · Recruiter · B.Tech CSE · Noida, India
+subtitle: Software developer · Web and mobile · B.Tech CSE · Noida, India
 
 profile:
   align: right
@@ -25,16 +25,18 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi, I'm **Shilpa**. I like building things people can see and use: the moment a new page comes alive in the browser is what got me into frontend work.
+Hi, I'm **Shilpa**, a software developer who likes building things people can see and use.
 
 I studied **Computer Science and Engineering** (B.Tech, CGPA 8.03, First Division with Distinction) and trained in full-stack Java at JSpiders. Since then I have:
 
-- built the **React Native user interface** of an agricultural-drone startup's Android app, as a software development intern;
+- built **58 screens of a React Native Android app** for an agricultural-drone startup and fixed about 98 production bugs, as a software development intern;
 - helped **18 local businesses get online** with websites, Shopify stores and WordPress pages, as a freelancer;
-- built **[Vibrant Kashi](https://github.com/mishraShilpa-28/Vibrant-Kashi)**, a React and Express travel guide to Varanasi, as my solo final-year project;
-- worked as an **Executive Recruiter** for UK job seekers, tailoring and submitting 45-60 applications a day for 15-20 clients, and coaching them for interviews;
-- built **[SourcingStudio Pro](https://github.com/mishraShilpa-28/SourcingStudio-Pro)**, a browser tool that turns complicated Boolean job searches into clickable building blocks, because I was tired of typing them by hand.
+- built **[SourcingStudio Pro](https://mishrashilpa-28.github.io/SourcingStudio-Pro/)**, a tool that turns complicated Boolean job searches into clickable building blocks, for my own work as an Executive Recruiter;
+- built **[Vibrant Kashi](https://github.com/mishraShilpa-28/Vibrant-Kashi)**, a full-stack travel guide to Varanasi, as my solo final-year project;
+- built more than twenty other projects across **web apps** (Next.js, MERN, real-time chat, payments), **AI and data** (NLP, computer vision, forecasting) and **security tools**. See [projects](/projects/).
 
-I'm looking for a role where I learn something new every day, ideally in **frontend or software development**. I communicate easily with clients and teams (I spoke with UK clients every day), and I'm comfortable with any shift.
+**What I work with:** JavaScript, TypeScript, React, React Native, Next.js, Node.js, Java, Python, SQL, MongoDB, PostgreSQL, Tailwind CSS, Git, Linux. **Currently learning:** Spring Boot, Docker, Kubernetes, AWS and machine-learning tooling.
+
+I'm looking for a software developer role where I learn something new every day. I communicate easily with clients and teams (I spoke with UK clients daily as a recruiter), I'm comfortable with any shift, and I can join immediately.
 
 **Let's talk:** [shilpamis428@gmail.com](mailto:shilpamis428@gmail.com) · [LinkedIn](https://www.linkedin.com/in/shilpadev/) · [GitHub](https://github.com/mishraShilpa-28)

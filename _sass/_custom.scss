@@ -3,3 +3,22 @@
   background-color: var(--global-theme-color) !important;
   color: var(--global-card-bg-color) !important;
 }
+/* CV page: highlights are full sentences, so show them as a readable list instead of one-line badges */
+.cv .card .items .list-inline-item {
+  display: block;
+  margin: 0 0 0.4rem 0;
+}
+.cv .card .items .list-inline-item .badge.badge-secondary, .cv .card-text.list-group-flush .list-group-item .items .badge.badge-secondary {
+  display: inline;
+  white-space: normal;
+  text-align: left;
+  font-size: 0.95rem;
+  font-weight: 400;
+  line-height: 1.5;
+  padding: 0;
+  background: transparent !important;
+  color: var(--global-text-color) !important;
+}
+.cv .card .items .badge .fa-angle-right {
+  color: var(--global-theme-color);
+}

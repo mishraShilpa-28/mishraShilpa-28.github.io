@@ -5,7 +5,7 @@ permalink: /projects/
 description: Things I have built, and what I am building next.
 nav: true
 nav_order: 2
-display_categories: [featured, practice]
+display_categories: [featured, web apps, ai and data, tools]
 horizontal: false
 ---
 

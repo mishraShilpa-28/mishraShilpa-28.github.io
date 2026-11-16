@@ -8,9 +8,9 @@ middle_name:
 last_name: Mishra
 contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Shilpa Mishra: frontend developer and recruiter with a B.Tech in Computer Science. Projects, resume and contact.
+  Shilpa Mishra: software developer building web and mobile apps (React, React Native, JavaScript, Java, Python). Projects, resume and contact.
 footer_text: >
-keywords: shilpa mishra, frontend developer, react, javascript, recruiter, portfolio # add your own keywords or leave empty
+keywords: shilpa mishra, software developer, full stack developer, react, react native, javascript, java, python, portfolio # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
